@@ -1,0 +1,24 @@
+newmtl sls_amg:Rim_metalSG
+illum 4
+Kd 0.29 0.29 0.29
+Ka 0.29 0.29 0.29
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 1.14 1.14 1.14
+Ns 18.00
+newmtl sls_amg:disc11SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.20 0.20 0.20
+Tf 1.00 1.00 1.00
+map_Kd nodamage_lod0.tga
+Ni 1.50
+Ks 0.65 0.65 0.65
+newmtl sls_amg:tireSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd tire(3).tga
+Ni 1.50
+Ks 0.35 0.35 0.35
